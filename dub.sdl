@@ -1,0 +1,6 @@
+name "app"
+description "A minimal D application."
+authors "vscode"
+copyright "Copyright © 2024, vscode"
+license "proprietary"
+targetPath "build"
