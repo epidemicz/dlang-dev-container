@@ -2,7 +2,7 @@
 docs.json
 __dummy.html
 docs/
-/app
+/build
 app.so
 app.dylib
 app.dll
